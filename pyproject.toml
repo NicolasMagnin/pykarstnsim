@@ -1,12 +1,12 @@
 [project]
 name = "pykarstnsim"
-version = "1.0.2"
+version = "1.0.1"
 description = "A Python interface for the KarstNSim C++ library"
 readme = "README.md"
 license = { file = "LICENSE" }
 requires-python = ">=3.9"
 authors = [
-  { name = "SISKA – Swiss Institute for Speleology and Karst Studies"},
+  { name = "ISSKA SISKA – Swiss Institute for Speleology and Karst Studies"},
 ]
 keywords = ["karst", "simulation", "geology", "hydrogeology", "3d", "pybind11"]
 classifiers = [
